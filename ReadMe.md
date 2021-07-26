@@ -13,6 +13,8 @@
 - Virtual Reality, testing all kinds of hardware and what uses they have in software.
 
 #### **Contact**
+- kyle.codes@gmail.com
+- https://www.linkedin.com/in/kyle-melton-1a1541162/
 
 ## **Professional**
 
