@@ -7,6 +7,10 @@
 - HTLM, CSS, Git
 
 ### **I Enjoy:**
+- Diving deep into programming languages
+- Finding various ways to code unique solutions
+- Aquascaping and caring for two reef tanks.
+- Virtual Reality, testing all kinds of hardware and what uses they have in software.
 
 #### **Contact**
 
