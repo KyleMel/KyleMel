@@ -19,3 +19,6 @@
 ## **Professional**
 
 ### **Data Center Technician at *Microsoft***
+Currently a Data Center technician maintaining the physical cloud by preforming hardware repairs, physically deploying servers, and troubleshooting link connection issues.  
+Enrolled in the internal Microsoft LEAP Apprenticeship Program. I am developing my skills and aptitude
+to meet the needs of the ever growing demand for SWEs in the field.
