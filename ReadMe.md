@@ -5,7 +5,7 @@
 - Basic Git repository workflow and commands
 - Git branching, merging, and working with Remotes
 - Utilizing the markdown language
-- HTLM, CSS, Git
+- HTLM, CSS, Javascript, C#
 
 ### **I Enjoy:**
 - Diving deep into programming languages
@@ -19,5 +19,4 @@
 
 ## **Professional**
 --- 
-Enrolled in the internal Microsoft LEAP Apprenticeship Program. I am developing my skills and aptitude
-to meet the needs of the ever growing demand for SWEs in the field.
+Enrolled in the internal *Microsoft LEAP* Apprenticeship Program. I am developing my skills and aptitude to meet the needs of the ever growing demand for SWEs in the field.  
