@@ -6,12 +6,12 @@
 - Big O Notation
 - SQL and relations DataBases
 
-## **What I've Studied so Far:**
--Git / GitHub
--HTML
--MarkDown
--CSS
--C#
+### **What I've Studied so Far:**
+- Git / GitHub
+- HTML
+- MarkDown
+- CSS
+- C#
 
 ### **I Enjoy:**
 - Diving deep into programming languages
