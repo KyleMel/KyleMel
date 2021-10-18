@@ -2,10 +2,16 @@
 # Hello!
 
 ### **I'm Currently Learning:**
-- Basic Git repository workflow and commands
-- Git branching, merging, and working with Remotes
-- Utilizing the markdown language
-- HTLM, CSS, Javascript, C#
+- Data Structures and Algorithms
+- Big O Notation
+- SQL and relations DataBases
+
+## **What I've Studied so Far:**
+-Git / GitHub
+-HTML
+-MarkDown
+-CSS
+-C#
 
 ### **I Enjoy:**
 - Diving deep into programming languages
