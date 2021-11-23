@@ -2,9 +2,9 @@
 # Hello!
 
 ### **I'm Currently Learning:**
-- Data Structures and Algorithms
-- Big O Notation
-- SQL and relations DataBases
+- JavaScript
+- ReactJS
+- WebAPIs
 
 ### **What I've Studied so Far:**
 - Git / GitHub
@@ -12,6 +12,9 @@
 - MarkDown
 - CSS
 - C#
+- Data Structures and Algorithms
+- Big O Notation
+- SQL and relations DataBases
 
 ### **I Enjoy:**
 - Diving deep into programming languages
