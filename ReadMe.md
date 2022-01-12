@@ -12,9 +12,7 @@
 - MarkDown
 - CSS
 - C#
-- Data Structures and Algorithms
-- Big O Notation
-- SQL and relations DataBases
+- SQL
 
 ### **I Enjoy:**
 - Diving deep into programming languages
